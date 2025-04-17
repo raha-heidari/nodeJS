@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "quiz1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raha-heidari/nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raha-heidari/nodeJS/issues"
+  },
+  "homepage": "https://github.com/raha-heidari/nodeJS#readme",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "random-words": "^2.0.1"
+  }
+}
